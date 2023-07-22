@@ -22,5 +22,3 @@ def caesar_cipher(string, shift_factor)
 
   return ciphered_string.join("")
 end
-
-caesar_cipher("What a string!", 5)
