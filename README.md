@@ -1,2 +1,2 @@
-# ruby-minis
-some “intro to programming” problems with ruby
+# Ruby-minis
+Some simple problem solving for ruby
