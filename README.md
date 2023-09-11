@@ -1,2 +1,2 @@
 # Ruby-minis
-Some simple problem solving for ruby
+Some simple projects from [The Odin Project](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/ruby) Ruby course
